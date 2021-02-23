@@ -1,7 +1,6 @@
 # Suicide-Risk-Recognition
 
-Department of Computing and Informatics – Artificial Intelligence
-Bournemouth, United Kingdom - Jun 2020
+Department of Computing and Informatics- Bournemouth Univerity – Bournemouth, United Kingdom - Jun 2020
 
 - Camargo Saray
 - Possamai Marco G
